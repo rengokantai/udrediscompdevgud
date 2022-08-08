@@ -1,7 +1,7 @@
 # udrediscompdevgud
 
 ## Section 2: Commands for Adding
-### 9 Variations of SET
+### 9. Variations of SET
 
 ```
 SET color red
